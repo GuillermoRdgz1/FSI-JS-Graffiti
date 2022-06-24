@@ -1,2 +1,3 @@
-
+let header = document.querySelector('#page-header')
+header.style.color = "orange"
 // Select some elements...
